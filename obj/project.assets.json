@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Repos\\hello-docker\\hello-docker.csproj",
+      "projectUniqueName": "C:\\Repos\\headforcloud\\workshops\\docker-k8s\\Docker\\src\\hello-docker\\hello-docker.csproj",
       "projectName": "hello-docker",
-      "projectPath": "c:\\Repos\\hello-docker\\hello-docker.csproj",
+      "projectPath": "C:\\Repos\\headforcloud\\workshops\\docker-k8s\\Docker\\src\\hello-docker\\hello-docker.csproj",
       "packagesPath": "C:\\Users\\Shahid\\.nuget\\packages\\",
-      "outputPath": "c:\\Repos\\hello-docker\\obj\\",
+      "outputPath": "C:\\Repos\\headforcloud\\workshops\\docker-k8s\\Docker\\src\\hello-docker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
