@@ -1,4 +1,4 @@
 # hello-docker
 Basic hello-world for docker examples
 
-Updated
+Updated Oct 2019
